@@ -5,3 +5,7 @@ Link: [How Software Development is Changing Forever, and How You'll Need to Chan
 ## What I found interesing
 
 The post on DEV argues that AI will be the next major abstraction in software development. A key insight is that future developers will likely spend less time manually writing code and more time clarifying problems, reviewing, and editing code while guiding AI tools to help them develop software. That seems like a logical prediction for the progression of software engineering; system design, coordination, and human judgement may matter more than coding ability someday.
+
+## Comment from Kara
+
+Your point makes a lot of sense. If AI can write more of the code, then developers will spend more time explaining problems, checking the AI’s work, and making good design decisions. I believe coding will not disappear, but our role will transfer to plan and guide AI. 
